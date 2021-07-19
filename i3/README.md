@@ -1,4 +1,4 @@
-### Install instructions:
+## Install instructions:
 
 Install some packages:
 
@@ -6,7 +6,7 @@ apt install feh fonts-font-awesome rofi pulseaudio-utils xbacklight alsa-tools c
 
 sudo apt install i3 i3blocks i3status xautolock python-dbus python-indicate
 
-## Shortcuts:
+### Shortcuts:
 Launch a terminal : Alt + Enter
 1. Shift focus: Alt + (up, down, left, right)
 2. New Workspaces/Change Workspace: Alt + (1, 2, 3, 4)

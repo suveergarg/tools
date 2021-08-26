@@ -16,5 +16,10 @@ Launch a terminal : Alt + Enter
 6. Resize: Alt  + R, Once in resize mode, use arrow keys.
 7. Shift Windows in workspaces.
 8. Exit Windows Manager: Alt + Shift + e
-9. 
+9. Alt +S : Stack mode
+10. Alt + w: Tile mode
+11. Alt + shift + 1,2,3 : Shift focussed window to desired workspace
+12. Alt + p : logout menu
+
+
 
